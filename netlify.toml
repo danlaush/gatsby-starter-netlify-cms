@@ -5,3 +5,8 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: deokkocoo
+    api_key: 143415422834379
