@@ -1,0 +1,5 @@
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: deokkocoo
+    api_key: 143415422834379
